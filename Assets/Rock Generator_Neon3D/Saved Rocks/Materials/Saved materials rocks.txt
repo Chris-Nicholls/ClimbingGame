@@ -1,0 +1,4 @@
+
+This folder contains all the materials of the rocks you save in this syntax:
+
+Name of the rock you chose + name of the material.

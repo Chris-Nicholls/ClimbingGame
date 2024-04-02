@@ -11,6 +11,36 @@ EditorUserSettings:
     RecentlyUsedSceneGuid-1:
       value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
       flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 0004060407000b595d5c587445255a44104e4c79752b71347a7e4431e1b8626c
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5a570052505751085f5b547314700844464e4f2c7c7123687e7b1936b2b1616c
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 0254055556575b0309085d27157a0b44154e1d787c2b716928781b63b3b4366b
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 050156055602515e0e0f5a7b11740d4444164a78792d736478784b62b5b06139
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5653525150575f59080f557b12775d16424f4d7a7d2e75362e7c446ae3b4656b
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 05020300060308025557092414740a44404e4b7d7a70206779714d61e3e2303c
+      flags: 0
+    UnityEditor.ShaderGraph.Blackboard:
+      value: 18135939215a0a5004000b0e15254b524c030a3f2964643d120d1230e9e93a3fd6e826abbd2e2d293c4ead313b08042de6030a0afa240c0d020be94c4ba75e435d8715fa32c70d15d11612dacc11fee5d3c5d1fe9ab1bf968e93e2ffcbc3e7e2f0b3ffe0e8b0be9af8ffaeffff8e85dd8390e69d9e8899daa7
+      flags: 0
+    UnityEditor.ShaderGraph.FloatingWindowsLayout2:
+      value: 181344140043005e1a220d3b1f364b524c0c5a27130c293326201334cee5322ca0bd30e8eb293a707b0fd0180b3d0a36fc0d3d04e649501f031bf84253f22f2514d70ccc19c91333cd1f0fcbd95f8bb2859884a69ae6d8f0d1cda9e8fbfefaf9f9dea3fdb9ade882f0ffb0e1e380cafbf2c3adc18e9cd285a2908b82e7849c8395949c9483d6818c97ddbd90bf
+      flags: 0
+    UnityEditor.ShaderGraph.InspectorWindow:
+      value: 18135939215a0a5004000b0e15254b524c030a3f2964643d120d1230e9e93a3fd6e826abbd3c3e302a07a37e0901373ae01e0008f707250d171df81a53a5415d41895ac825e0100ec20313c0d91cddccd3d0c7efcca9bd88908fecb0f9cfddf1eff4e7a1b1eae482f0fea7e3e1928b86d888ed969b938797a7cf
+      flags: 0
+    UnityEditor.ShaderGraph.ToggleSettings:
+      value: 18135d1527590858060c032302276919051e1a26296a7c362c250e36aea23d2bd2f533ffee3f280a3011e63e083b4365e6181c0eba4903183800ee1e14fc041c03f311d613ca1319894308dcd8189da1d6d9d8e5cadbf5d7c8d6a4f7e6b2b4baa9dfaaf5aff6bedd
+      flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0
@@ -29,4 +59,3 @@ EditorUserSettings:
   m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 1
   m_ArtifactGarbageCollection: 1
-  m_CompressAssetsOnImport: 1

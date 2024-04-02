@@ -1,0 +1,69 @@
+Rock Generator Neon3D
+__________________________
+
+Description:
+------------
+This package was made to take games to the top and improve the gaming experience
+of your game by displaying a variety of reliable rocks that you can create in seconds.
+
+GENERATE different rocks for your environmental design! Made for different kinds of environments, forest, desert, beach and more!
+
+Content:
+--------
+Models and Prefabs:
+Beach_Rock_Generator
+Desert_Rock_Generator
+Forest_Rock_Generator
+River_Rock_Generator
+
+UI:
+Generate button.png
+Save_Button.png
+Canvas.prefab
+
+Scripts:
+RockGenerator.cs
+
+DemoScene:
+Rock Generator_Neon3D.unity
+
+Supports Built-in, URP, HDRP.
+- If you are using urp/hdrp go to Edit > Render pipeline > Universal/HD render pipline > Upgrade project materials to UniversalRP/High Definition materials
+
+
+*To use the Rock Generator program inside of Unity -
+1) Import the package into Unity.
+2) Click on the folder named "DemoScene".
+3) Click on the scene "Rock Generator_Neon3D".
+4) If you are using urp/hdrp go to Edit > Render pipeline > Universal/HD render pipline > Upgrade project materials to UniversalRP/High Definition materials
+5) Enter PLAY MODE and all the features are yours to use, Click on Generate button to START CREATING.
+6)Click on Save button when you want to save the rock as prefab you just created.
+7)You can find the saved rocks and theirs materials location at Assets/Rock Generator_Neon3D/Saved Rocks/
+
+Note: You can edit the rocks manualy - On the Hierarchy of the scene search for "AllRocks" and look at Rock Generator.cs in the inspector and additionly you can find all the rocks blendshapes.
+For more information:
+
+
+Features and Instructions:
+--------------------------
+1) Choose rock style: you can choose what kind your rock will be, click on the drop down to change.
+2) Local Save Path: shows where saved rocks are saved in.
+3) Local Save Path Material: shows where the materials of saved rocks are saved in.
+4) Save Button: click on it to save the rock.
+5) Rock Name: name your rock (Read "Warnings").
+6) Generate Rock: this feature generate rocks for you.
+7) The saved rocks will be saved in the default path to the folder "Assets/Rock Generator_Neon3D/Saved Rocks/".
+8) Demo scene can be found in "DemoScene/Rock Generator_Neon3D.unity".
+
+Warnings:
+---------
+1) You should type a name for your rock so the program would know what name it would save it as,
+in case you leave this field empty the program won't save the rocks.
+2) Make sure you choose a recognizable path to save the rocks,
+in case an unrecognizable path was typed the rock won't be saved.
+3) Do not delete the rocks prefabs under AllRocks parent.
+
+
+Contact Info:
+-------------
+Email: neon3dcontact@gmail.com
